@@ -1,1 +1,5 @@
+<<<<<<< ours
 day la file week2 va main
+=======
+day la file week2 ma thoi
+>>>>>>> theirs
